@@ -16,7 +16,7 @@
 <p align="center"><img width ="150px" img src="peace.jpg">
 <b><h2><font color="orange">Video about Poverty </B></h2></font>
 <video width="260" height="160" controls>
-<center><source src="vd.mp4" type="video/mp4></center>
+<center><source src="vd.mp4" type="video/mp4"></center>
  </video>
 <br><font color="white"><a href="https://scaffoldpoverty.herokuapp.com/?fbclid=IwAR1OndBXgBJQDQEqDP16G-xBHaifgEej223x_0jisnk3wF5ROqN3fSAGoX0"><center> HOME PAGE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://performancetsakpage1.herokuapp.com/">PAGE 2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://page3pt.herokuapp.com/"> PAGE 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://page4pt.herokuapp.com/">PAGE 4</p> </a><p></font>
 </body>
